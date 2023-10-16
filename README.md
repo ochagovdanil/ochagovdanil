@@ -6,4 +6,4 @@
 
 ### About Me
 
-I am a young, passionate Frontend Developer known for my experience in creating visually appealing and user-friendly websites. My attention to detail and creative flair set me apart in the field. I hope you will find something interesting on this page :monocle_face:
+I am a beginner Frontend Developer who is passionate about his work and sees its future aligned among IT technologies. My distinctive and sophisticated approach helps me out in writing high-quality web apps for daily uses and  business demands. I hope you will find something interesting on this page :monocle_face:
